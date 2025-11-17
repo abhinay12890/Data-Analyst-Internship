@@ -1,4 +1,4 @@
-# 📊 Data Analyst Internship Projects — Portfolio (2025)
+# Data Analyst Internship Projects — Portfolio (2025)
 
 This repository contains a curated collection of data analytics projects completed during my Data Analyst Internship (recreated using non-confidential/sample datasets).  
 It includes Exploratory Data Analysis (EDA) notebooks and Tableau dashboards across finance, e-commerce, entertainment, travel, manufacturing, logistics, and public-safety domains.
@@ -14,9 +14,9 @@ Each project demonstrates:
 
 ---
 
-## 📁 Files in This Repository
+## Files in This Repository
 
-### 🧪 EDA Notebooks (Python / Jupyter)
+### EDA Notebooks (Python / Jupyter)
 
 - **TATA_Steel_EDA.ipynb**  
 - **Netflix_EDA.ipynb**  
@@ -28,14 +28,14 @@ Each project demonstrates:
 - **FED-EX_EDA.ipynb**  
 - **Ford_Bike_Sharing_EDA.ipynb**
 
-### 📊 Tableau Dashboards
+### Tableau Dashboards
 
 - **AIRBNB GRAPHS.twb**  
 - **FBI.twb**
 
 ---
 
-## 📌 Project Summaries
+## Project Summaries
 
 ### **1. TATA Steel EDA**
 - Analyzed steel production, quality parameters, and operational efficiency  
@@ -83,7 +83,7 @@ Each project demonstrates:
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 **Languages:** Python  
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
@@ -93,12 +93,12 @@ Each project demonstrates:
 
 ---
 
-## 📬 Contact
+## Contact
 
-**Abhinay Kalavakuri**  
-📧 Email: kalavakuriabhinay@iitbhilai.ac.in  
-🔗 LinkedIn: https://www.linkedin.com/in/kalavakuri-abhinay  
-🔗 GitHub: https://github.com/abhinay12890  
+**Kalavakuri Abhinay**  
+Email: kalavakuriabhinay@iitbhilai.ac.in  
+LinkedIn: https://www.linkedin.com/in/kalavakuri-abhinay  
+GitHub: https://github.com/abhinay12890  
 
 ---
 

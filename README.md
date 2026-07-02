@@ -1,5 +1,4 @@
-# Data Analyst Internship Projects — Portfolio (2025)
-
+# Data Analyst Internship Projects
 This repository contains a curated collection of data analytics projects completed during my Data Analyst Internship (recreated using non-confidential/sample datasets).  
 It includes Exploratory Data Analysis (EDA) notebooks and Tableau dashboards across finance, e-commerce, entertainment, travel, manufacturing, logistics, and public-safety domains.
 
@@ -89,17 +88,4 @@ Each project demonstrates:
 **Libraries:** Pandas, NumPy, Matplotlib, Seaborn  
 **Dashboards:** Tableau  
 **Techniques:** EDA, data cleaning, feature engineering, visualization  
-**Environment:** Jupyter Notebook, GitHub  
-
----
-
-## Contact
-
-**Kalavakuri Abhinay**  
-Email: kalavakuriabhinay@iitbhilai.ac.in  
-LinkedIn: https://www.linkedin.com/in/kalavakuri-abhinay  
-GitHub: https://github.com/abhinay12890  
-
----
-
-⭐ *If you found this repository helpful, feel free to star it!*
+**Environment:** Jupyter Notebook, GitHub 

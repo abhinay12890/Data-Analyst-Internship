@@ -10,6 +10,7 @@ Each project demonstrates:
 - Feature Engineering for ML readiness  
 - Tableau Dashboards for business reporting  
 - Python-based analytics workflows (Pandas, NumPy, Matplotlib, Seaborn)
+- Recommendations
 
 ---
 
@@ -82,6 +83,54 @@ Each project demonstrates:
 
 ---
 
+## Recommendations
+**1. TATA Steel EDA**
+* Prioritize monitoring of production parameters with the strongest correlation to output quality to reduce process variability.
+* Focus quality-control efforts on stages contributing most to production defects.
+* Use trend analysis to support preventive maintenance and optimize manufacturing efficiency.
+
+**2. Netflix EDA**
+* Increase investment in high-performing genres and content categories with sustained audience demand.
+* Expand regional content production in underrepresented markets to improve global reach.
+* Improve content acquisition and recommendation strategies based on genre, rating, and release-year trends.
+
+
+**3. Prime Video EDA**
+* Diversify the content catalog in underrepresented genres to broaden audience appeal.
+* Balance investments between movies and TV shows based on user engagement trends.
+* Prioritize content categories with consistent popularity to improve platform retention.
+
+**4. Yes Bank EDA**
+* Monitor long-term price trends and volatility indicators to support investment decisions.
+* Combine historical trend analysis with external market factors for improved risk assessment.
+* Use analytical findings to identify potential entry and exit points for portfolio evaluation.
+
+**5. Flipkart EDA**
+* Prioritize resolution of high-frequency customer issues to improve customer satisfaction.
+* Optimize support staffing during peak complaint periods to reduce response times.
+* Address recurring product and service issues through targeted operational improvements.
+
+**6. FedEx Logistics EDA**
+* Prioritize investigation of consistently delayed shipping routes to improve delivery performance.
+* Optimize logistics planning and resource allocation for high-delay regions.
+* Monitor operational KPIs continuously to reduce delivery delays and improve customer satisfaction.
+
+**7. Ford Bike Sharing EDA**
+* Reallocate bikes based on seasonal and hourly demand patterns to improve utilization.
+* Incorporate weather forecasts into demand planning for better fleet management.
+* Optimize station capacity in high-demand locations to reduce shortages during peak hours.
+
+**8. Airbnb Tableau Dashboard**
+* Use pricing and occupancy trends to support dynamic pricing strategies.
+* Identify high-performing neighborhoods for targeted marketing and investment decisions.
+* Monitor availability patterns to improve listing utilization throughout the year.
+
+**9. FBI Crime Dashboard**
+* Allocate law enforcement resources based on regional crime concentrations.
+* Monitor long-term crime trends to support public safety planning.
+* Identify crime hotspots requiring targeted prevention initiatives.
+
+---
 ## Tools & Technologies
 
 **Languages:** Python  
